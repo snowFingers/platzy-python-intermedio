@@ -1,2 +1,2 @@
-# platzy-python-intermedio
+# Aprendiendo Python
 Curso intermedio de python 
